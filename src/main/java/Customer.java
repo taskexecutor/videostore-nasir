@@ -16,7 +16,7 @@ public class Customer
 		return name;
 	}
 	
-	public String statement () {
+	/*public String statement () {
 		double 				totalAmount 			= 0;
 		int					frequentRenterPoints 	= 0;
 		Enumeration 		rentals 				= this.rentals.elements ();
@@ -60,7 +60,7 @@ public class Customer
 		
 		
 		return result;
-	}
+	}*/
 	
 
 	private String name;
